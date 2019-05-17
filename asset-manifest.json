@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slack-react-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/slack-react-app/static/js/main.e7bc53e9.chunk.js",
+    "main.js.map": "/slack-react-app/static/js/main.e7bc53e9.chunk.js.map",
+    "runtime~main.js": "/slack-react-app/static/js/runtime~main.f3fd5931.js",
+    "runtime~main.js.map": "/slack-react-app/static/js/runtime~main.f3fd5931.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/slack-react-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/slack-react-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/slack-react-app/index.html",
+    "precache-manifest.6e2a464ea052ddf538d6770fdf7771a4.js": "/slack-react-app/precache-manifest.6e2a464ea052ddf538d6770fdf7771a4.js",
+    "service-worker.js": "/slack-react-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/slack-react-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
