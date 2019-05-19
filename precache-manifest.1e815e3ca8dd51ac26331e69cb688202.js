@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95d94c3644464a625fdc9dae1fa8e604",
+    "revision": "adb9803f813dee92d1d183cb4ff7517d",
     "url": "/slack-react-app/index.html"
   },
   {
-    "revision": "8747a5b4a483fc3b6a0d",
+    "revision": "6f41e2be7e8eaa1f6df9",
     "url": "/slack-react-app/static/css/2.14875a78.chunk.css"
   },
   {
-    "revision": "48a82b8c5fcb4728727a",
-    "url": "/slack-react-app/static/css/main.adef33d0.chunk.css"
+    "revision": "32916196bdcb022d0bac",
+    "url": "/slack-react-app/static/css/main.44bcca82.chunk.css"
   },
   {
-    "revision": "8747a5b4a483fc3b6a0d",
-    "url": "/slack-react-app/static/js/2.5db0b822.chunk.js"
+    "revision": "6f41e2be7e8eaa1f6df9",
+    "url": "/slack-react-app/static/js/2.604d4e3b.chunk.js"
   },
   {
-    "revision": "48a82b8c5fcb4728727a",
-    "url": "/slack-react-app/static/js/main.9adec97f.chunk.js"
+    "revision": "32916196bdcb022d0bac",
+    "url": "/slack-react-app/static/js/main.19de873d.chunk.js"
   },
   {
     "revision": "93b30d7e1720bf2ab476",
